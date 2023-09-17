@@ -1,0 +1,35 @@
+.menu {
+  text-align: center;
+  width: 80%;
+  background-color: gray;
+  color: whitesmoke;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+.post {
+  text-align: center;
+  width: 80%;
+  background-color: black;
+  color: whitesmoke;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+body {
+  background-color: orange;
+}
+
+form {
+  text-align: center;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  border-spacing: 10px;
+}
+
+.naruto-img {
+  width: 75%;
+}
